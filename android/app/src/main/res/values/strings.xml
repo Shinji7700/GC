@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Group Chat Application</string>
+    <string name="facebook_app_id">868999563872197</string>
+    <string name="fb_login_protocol_scheme">fb868999563872197</string>
+</resources>
